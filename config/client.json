@@ -1,0 +1,7 @@
+{
+    "dolar_provider": {
+        "endpoint": "http://localhost:8080/cotacao",
+        "read_timeout": "300ms"
+    },
+    "output": "./cotacao.txt"
+}

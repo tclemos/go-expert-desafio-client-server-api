@@ -1,0 +1,12 @@
+{
+    "host": "127.0.0.1",
+    "port": 8080,
+    "dolar_provider": {
+        "endpoint": "https://economia.awesomeapi.com.br/json/last/USD-BRL",
+        "read_timeout": "200ms",
+        "write_timeout": "10ms"
+    },
+    "database": {
+        "path": "./server.db"        
+    }
+}
